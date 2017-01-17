@@ -1,0 +1,5 @@
+# GAS Client
+client_secret_*.apps.googleusercontent.com.json
+
+# GAS config
+src/config.js
