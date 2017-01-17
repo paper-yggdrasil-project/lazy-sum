@@ -50,7 +50,12 @@ See https://github.com/danthareja/node-google-apps-script
 
 * Get Slack Incoming URL
 
-## Configuration
+### Configuration file under src
+
+```
+touch ./src/config.js
+```
+
 
 Sample `config.js` is below.
 
