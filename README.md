@@ -11,7 +11,9 @@ This is the GAS project with Slack and Mendeley to manage papers.
 
 ## Setup
 
-### GAS Authorization
+### GAS Authorization (Optional)
+
+If you create a GAS project `directly`, you can skip this.
 
 See https://github.com/danthareja/node-google-apps-script
 
