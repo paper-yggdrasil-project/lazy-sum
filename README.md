@@ -2,6 +2,8 @@
 
 This is the GAS project with Slack and Mendeley to manage papers.
 
+![](images/slack.png)
+
 ## Dependencies
 
 * Google Apps Script
@@ -96,3 +98,5 @@ var PIGGY = {
 ## Calendar Visualization
 
 https://script.google.com/macros/s/AKfycbxWzKuXAdsuDto7puvS5ZdUwK5Kl8KFuaML4Fb2v0o_NOp2Jgn2/exec
+
+![](images/calendar.png)
